@@ -1,3 +1,7 @@
+//*****************************
+ *main.cpp
+ *main source file
+  ***************************/
 #include <iostream>
 using namespace std;
 int main(){
